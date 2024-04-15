@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "KRAMPUS ON TOP",
-   LoadingTitle = "RIDE TH BAN 'WAVE'",
-   LoadingSubtitle = "DIDNT EVEN LAST 2 DAYS LMAOO",
+   Name = ".gg/bxtTgM7dFd",
+   LoadingTitle = "just dont get bombed. like its not that hard'",
+   LoadingSubtitle = "- raph, 2024",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
@@ -1227,7 +1227,7 @@ _G.Sensitivity = 0 -- How many seconds it takes for the aimbot script to officia
 _G.CircleSides = 64 -- How many sides the FOV circle would have.
 _G.CircleColor = Color3.fromRGB(255, 255, 255) -- (RGB) Color that the FOV circle would appear as.
 _G.CircleTransparency = 0.7 -- Transparency of the circle.
-_G.CircleRadius = 280 -- The radius of the circle / FOV.
+_G.CircleRadius = 80 -- The radius of the circle / FOV.
 _G.CircleFilled = false -- Determines whether or not the circle area will be filled.
 _G.CircleVisible = true -- Determines whether or not the circle will be visible.
 _G.CircleThickness = 0 -- The thickness of the circle.
